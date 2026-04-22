@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/ye11oc4t/gitanimals">
-  <img src="https://render.gitanimals.org/lines/ye11oc4t?pet-id=1" width="1000" height="120"/>
-</a>
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/834826977655465879/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
