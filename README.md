@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width="800" height="300" alt="Ye11oc4t" src="https://github.com/user-attachments/assets/256ec48c-cec5-4277-9729-c897a8ee707b" />
+
+
+
+
+
 
 <a href="https://www.gitanimals.org/">
       <img
