@@ -23,3 +23,5 @@ Here are some ideas to get you started:
         alt="gitanimals"
       />
     </a>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ye11oc4t&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical) 
